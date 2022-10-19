@@ -4,7 +4,7 @@
 git add *
 
 # commit changes
-git commit -m "Edited the shell script"
+git commit -m $1
 
 # push changes
 git push
