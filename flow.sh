@@ -7,4 +7,4 @@ git add *
 git commit -m $1
 
 # push changes
-git push
+git $2
